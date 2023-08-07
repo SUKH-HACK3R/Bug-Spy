@@ -6,4 +6,4 @@ Bug-Spy is a tool developed for educational purposes, primarily for bug finding 
 
 ## Installation
 
-1. 'Update and upgrade your system packages:'
+1. ` Update and upgrade your system packages: `
