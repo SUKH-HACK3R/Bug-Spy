@@ -13,5 +13,5 @@ Bug-Spy is a tool developed for educational purposes, primarily for bug finding 
 4. ` git clone https://github.com/SUKH-HACK3R/Bug-Spy `
 5. ` cd Bug-Spy `
 6. ` chmod +x * `
-7. ` pip install -r requirement.txt `
+7. ` pip install -r requirements.txt `
 8. ` bash run.sh `
