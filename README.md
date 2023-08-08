@@ -10,7 +10,7 @@ Bug-Spy is a tool developed for educational purposes, primarily for bug finding 
 1. ` apt update `
 2. ` apt upgrade -y `
 3. ` apt install git python bash `
-4. ` git clone https://github.com/SUKH-HACK3R/ `
+4. ` git clone https://github.com/SUKH-HACK3R/Bug-Spy/ `
 5. ` cd Bug-Spy `
 6. ` chmod +x * `
 7. ` pip install -r requirement.txt `
